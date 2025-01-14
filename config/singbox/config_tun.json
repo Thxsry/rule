@@ -2,8 +2,10 @@
   "log": {
     "disabled": false,
     "level": "info",
+    "output": "/var/log/box.log",
     "timestamp": true
-  },
+  }
+}
   
   "experimental": {
     "clash_api": {
